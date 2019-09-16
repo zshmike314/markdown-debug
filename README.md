@@ -7,7 +7,7 @@
 
 除开显明的语法错误之外，格式、组织方式等的错误也需要考虑。可以参考学辅技术中心中对 [Markdown 文档撰写方式](https://qyxf.site/technique/typeset)的有关提法来改正这些错误。
 
-请大家参考 [Git 与 GitHub 快速上手教程](https://qyxf.site/tutorials/git-github)中 [3.3 参与协作]一节，通过以下几个步骤完成此练习：
+请大家参考 [Git 与 GitHub 快速上手教程](https://qyxf.site/tutorials/git-github)中 [3.3 参与协作](https://qyxf.site/tutorials/git-github#3-3-%E5%8F%82%E4%B8%8E%E5%8D%8F%E4%BD%9C)一节，通过以下几个步骤完成此练习：
 
 1. 将本仓库 fork 到自己的账户中；
 2. 在 Git 客户端 `clone` 这个仓库，并在其中对自己的相应文档进行修改；
