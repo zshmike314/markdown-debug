@@ -1,4 +1,4 @@
-## 关于 Git 客户端介绍
+# 关于 Git 客户端介绍
 
 ## 安装
 
@@ -13,7 +13,7 @@
 
 一路右键，直到出现设置界面；如果缺少软件配置合并比较工具 `kdiff3`，说明未安装此工具，有两个解决办法：
 
-- 点击[这里](https://sourceforge.net/projects/kdiff3/files/安装合并比较工具；
+- 点击[这里](https://sourceforge.net/projects/kdiff3/files/)安装合并比较工具；
 - 进入此界面左边的“Git -> 设置”中 ，选择本地已经安装的其它合并比较工具。
 
 
@@ -23,7 +23,7 @@
 
 在你想放的位置（我知道肯定是桌面）打开右键菜单，选择“GitExt Clone”，粘贴上仓库的地址，然后点击`克隆`饥即可。
 
-克隆完成后，将提示按 <kbd>Esc<kbd> 或者 <kbd>Enter<kbd> 退出。
+克隆完成后，将提示按 <kbd>Esc</kbd> 或者 <kbd>Enter</kbd> 退出。
 
 ### 将本地更改上传
 
